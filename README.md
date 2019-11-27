@@ -28,8 +28,6 @@ Distribuição de Poisson
 
 **A distribuição normal** é a mas importante **distribuição** estatística, considerando a questão prática e teórica. Considerando a probabilidade de ocorrência, a área sob sua curva soma 100%.
 
->Acoplamento dos parâmetros de distribuição normal
-
 ```mermaid
 graph TD
 A((z)) --> B((f))
