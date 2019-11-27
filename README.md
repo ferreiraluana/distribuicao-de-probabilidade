@@ -27,6 +27,7 @@ Distribuição de Poisson
 |[normal-tables.pdf](https://github.com/ferreiraluana/distribuicao-de-probabilidade/blob/master/normal-tables.pdf "normal-tables.pdf")|`Tabela com os valores de Z e suas correspondentes probabilidades utilizada como referência`|
 
 **A distribuição normal** é a mas importante **distribuição** estatística, considerando a questão prática e teórica. Considerando a probabilidade de ocorrência, a área sob sua curva soma 100%.
+![](normal.jpg)
 
 Para mais informações:
 
